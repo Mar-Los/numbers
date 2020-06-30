@@ -1,5 +1,5 @@
 # Number Facts
-A React app displaying various facts about numbers fetched from the [Numbers API](http://numbersapi.com/). It runs live at [this website](numbers.titanus.cz)
+A React app displaying various facts about numbers fetched from the [Numbers API](http://numbersapi.com/). It runs live at [this website](http://numbers.titanus.cz)
 
 ## Features
 - Page for each category of facts.
